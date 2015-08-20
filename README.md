@@ -15,4 +15,5 @@ Why do I need this script?
   1. Preparation
     * Click [Add New Volume Button] to add Instance Store 0,1,2... in AWS LaunchInstance Wizard Page
   2. Run ec2-raid0.sh after login ec2 instance or put this script in ec2 userdata
-    * Script Usage: ./ec2-raid0.sh -m <your mounting point>
+    * Script Usage:
+    * ```./ec2-raid0.sh -m <your mounting point>```
